@@ -1,0 +1,14 @@
+C:\Users\RedpeaksDev\Documents\GitHub\ASP.NETCore2.1_Angular7\ASP.NETCore2.1_Angular7\bin\Debug\netcoreapp2.1\ASP.NETCore2.1_Angular7.deps.json
+C:\Users\RedpeaksDev\Documents\GitHub\ASP.NETCore2.1_Angular7\ASP.NETCore2.1_Angular7\bin\Debug\netcoreapp2.1\ASP.NETCore2.1_Angular7.runtimeconfig.json
+C:\Users\RedpeaksDev\Documents\GitHub\ASP.NETCore2.1_Angular7\ASP.NETCore2.1_Angular7\bin\Debug\netcoreapp2.1\ASP.NETCore2.1_Angular7.runtimeconfig.dev.json
+C:\Users\RedpeaksDev\Documents\GitHub\ASP.NETCore2.1_Angular7\ASP.NETCore2.1_Angular7\bin\Debug\netcoreapp2.1\ASP.NETCore2.1_Angular7.dll
+C:\Users\RedpeaksDev\Documents\GitHub\ASP.NETCore2.1_Angular7\ASP.NETCore2.1_Angular7\bin\Debug\netcoreapp2.1\ASP.NETCore2.1_Angular7.pdb
+C:\Users\RedpeaksDev\Documents\GitHub\ASP.NETCore2.1_Angular7\ASP.NETCore2.1_Angular7\obj\Debug\netcoreapp2.1\ASP.NETCore2.1_Angular7.csprojAssemblyReference.cache
+C:\Users\RedpeaksDev\Documents\GitHub\ASP.NETCore2.1_Angular7\ASP.NETCore2.1_Angular7\obj\Debug\netcoreapp2.1\ASP.NETCore2.1_Angular7.csproj.CoreCompileInputs.cache
+C:\Users\RedpeaksDev\Documents\GitHub\ASP.NETCore2.1_Angular7\ASP.NETCore2.1_Angular7\obj\Debug\netcoreapp2.1\ASP.NETCore2.1_Angular7.RazorAssemblyInfo.cache
+C:\Users\RedpeaksDev\Documents\GitHub\ASP.NETCore2.1_Angular7\ASP.NETCore2.1_Angular7\obj\Debug\netcoreapp2.1\ASP.NETCore2.1_Angular7.RazorAssemblyInfo.cs
+C:\Users\RedpeaksDev\Documents\GitHub\ASP.NETCore2.1_Angular7\ASP.NETCore2.1_Angular7\obj\Debug\netcoreapp2.1\ASP.NETCore2.1_Angular7.AssemblyInfoInputs.cache
+C:\Users\RedpeaksDev\Documents\GitHub\ASP.NETCore2.1_Angular7\ASP.NETCore2.1_Angular7\obj\Debug\netcoreapp2.1\ASP.NETCore2.1_Angular7.AssemblyInfo.cs
+C:\Users\RedpeaksDev\Documents\GitHub\ASP.NETCore2.1_Angular7\ASP.NETCore2.1_Angular7\obj\Debug\netcoreapp2.1\ASP.NETCore2.1_Angular7.RazorTargetAssemblyInfo.cache
+C:\Users\RedpeaksDev\Documents\GitHub\ASP.NETCore2.1_Angular7\ASP.NETCore2.1_Angular7\obj\Debug\netcoreapp2.1\ASP.NETCore2.1_Angular7.dll
+C:\Users\RedpeaksDev\Documents\GitHub\ASP.NETCore2.1_Angular7\ASP.NETCore2.1_Angular7\obj\Debug\netcoreapp2.1\ASP.NETCore2.1_Angular7.pdb
